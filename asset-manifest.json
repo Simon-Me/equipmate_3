@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/EquipMate_2/static/css/main.bb415e4e.css",
-    "main.js": "/EquipMate_2/static/js/main.96ae4533.js",
-    "static/js/239.fdcf22ea.chunk.js": "/EquipMate_2/static/js/239.fdcf22ea.chunk.js",
-    "static/js/213.d149e380.chunk.js": "/EquipMate_2/static/js/213.d149e380.chunk.js",
-    "static/js/732.491c791e.chunk.js": "/EquipMate_2/static/js/732.491c791e.chunk.js",
-    "static/media/png-transparent-axe-hatchet-ico-icon-bloody-ax-cartoon-ax-icon-design Kopie.png": "/EquipMate_2/static/media/png-transparent-axe-hatchet-ico-icon-bloody-ax-cartoon-ax-icon-design Kopie.53c7c53e7fcfd52db7c4.png",
-    "index.html": "/EquipMate_2/index.html",
-    "main.bb415e4e.css.map": "/EquipMate_2/static/css/main.bb415e4e.css.map",
-    "main.96ae4533.js.map": "/EquipMate_2/static/js/main.96ae4533.js.map",
-    "239.fdcf22ea.chunk.js.map": "/EquipMate_2/static/js/239.fdcf22ea.chunk.js.map",
-    "213.d149e380.chunk.js.map": "/EquipMate_2/static/js/213.d149e380.chunk.js.map",
-    "732.491c791e.chunk.js.map": "/EquipMate_2/static/js/732.491c791e.chunk.js.map"
+    "main.css": "/equipmate_3/static/css/main.d33a109c.css",
+    "main.js": "/equipmate_3/static/js/main.10b70866.js",
+    "static/js/239.fdcf22ea.chunk.js": "/equipmate_3/static/js/239.fdcf22ea.chunk.js",
+    "static/js/213.d149e380.chunk.js": "/equipmate_3/static/js/213.d149e380.chunk.js",
+    "static/js/732.491c791e.chunk.js": "/equipmate_3/static/js/732.491c791e.chunk.js",
+    "static/media/png-transparent-axe-hatchet-ico-icon-bloody-ax-cartoon-ax-icon-design Kopie.png": "/equipmate_3/static/media/png-transparent-axe-hatchet-ico-icon-bloody-ax-cartoon-ax-icon-design Kopie.53c7c53e7fcfd52db7c4.png",
+    "index.html": "/equipmate_3/index.html",
+    "main.d33a109c.css.map": "/equipmate_3/static/css/main.d33a109c.css.map",
+    "main.10b70866.js.map": "/equipmate_3/static/js/main.10b70866.js.map",
+    "239.fdcf22ea.chunk.js.map": "/equipmate_3/static/js/239.fdcf22ea.chunk.js.map",
+    "213.d149e380.chunk.js.map": "/equipmate_3/static/js/213.d149e380.chunk.js.map",
+    "732.491c791e.chunk.js.map": "/equipmate_3/static/js/732.491c791e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb415e4e.css",
-    "static/js/main.96ae4533.js"
+    "static/css/main.d33a109c.css",
+    "static/js/main.10b70866.js"
   ]
 }
